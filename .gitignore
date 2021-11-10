@@ -1,0 +1,6 @@
+# Hammer Gitignore
+*.vmf_autosave
+*.vmx
+*.log
+*.prt
+*.bsp
